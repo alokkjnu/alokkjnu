@@ -8,13 +8,13 @@ From robust APIs to advanced **LLM & Agentic-AI** solutions — I enjoy transfor
 
 ## 🧰 What I Work With  
 
-### 🖥️ Backend • Web • API Development  
-- 🐍 **Python** — Django 🕸️, DRF 🔗, FastAPI ⚡, Flask 🍃  
-- 🌐 REST APIs, Microservices, Authentication 🔐, Distributed Systems  
+### 🖥️ Backend • Web • API Development                                      ### 🗄️ Databases & Data Engineering  
+- 🐍 **Python** — Django 🕸️, DRF 🔗, FastAPI ⚡, Flask 🍃                    - 🐘 **PostgreSQL**, 🐬 **MySQL**, 📦 SQLite, SQLAlchemy  
+- 🌐 REST APIs, Microservices, Authentication 🔐, Distributed Systems       - ⚙️ ORM optimization, schema design, performance tuning 🚀  
+ 
 
-### 🗄️ Databases & Data Engineering  
-- 🐘 **PostgreSQL**, 🐬 **MySQL**, 📦 SQLite, SQLAlchemy  
-- ⚙️ ORM optimization, schema design, performance tuning 🚀  
+
+
 
 ### 🤖 AI / ML / GenAI / LLMs / Agents  
 - 🧠 **Large Language Models (LLMs)**  
