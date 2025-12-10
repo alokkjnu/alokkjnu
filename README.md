@@ -44,6 +44,15 @@ From robust APIs to advanced **LLM & Agentic-AI** solutions — I enjoy transfor
 
 ---
 
+
+
+
+
+
+
+
+<!---
+
 ## 📬 Connect with Me  
 📧 Email: **alokmaurya.dev@gmail.com**  
 🔗 Add your LinkedIn / Portfolio links here (I can format them nicely!)  
@@ -57,13 +66,6 @@ If you want, I can also create:
 🎨 A more colorful or minimalist variant  
 
 Just tell me!
-
-
-
-
-
-
-<!---
 👋 Hi, I'm Alok Kumar Maurya
 AI Engineer | Python Developer | Backend Engineer | Agentic AI & LLM Specialist
 
