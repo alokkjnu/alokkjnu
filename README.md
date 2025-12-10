@@ -41,7 +41,7 @@ I build backend systems, AI-powered applications and intelligent agents using Py
 
 
 
-
+<!---
 👋 Hi, I'm Alok Kumar Maurya
 AI Engineer | Python Developer | Backend Engineer | Agentic AI & LLM Specialist
 
@@ -72,7 +72,7 @@ I love turning complex problems into elegant, efficient, and maintainable softwa
 🗂️ RAG setups: simple chains → agentic RAG → hybrid search → local RAG
 💬 Chat-with-anything apps: GitHub, Gmail, PDFs, videos, research papers
 🚀 Fine-tuning: Gemma, Llama, and other OSS models
-🧩 Full code-first crash course on Agent Development Kit and OpenAI SDK
+🧩 Full code-first crash course on Agent Development Kit and OpenAI SDK --->
 
 <!---
 alokkjnu/alokkjnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
