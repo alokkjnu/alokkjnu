@@ -9,7 +9,7 @@ From robust APIs to advanced **LLM & Agentic-AI** solutions — I enjoy transfor
 ## 🧰 What I Work With  
 
 ### 🖥️ Backend • Web • API Development                                      
-- 🐍 **Python** — Django 🕸️, DRF 🔗, FastAPI ⚡, Flask 🍃                    
+- 🐍 **Python** — VayuAPI, Django 🕸️, DRF 🔗, FastAPI ⚡, Flask 🍃                    
 - 🌐 REST APIs, Microservices, Authentication 🔐, Distributed Systems       
 
 ### 🗄️ Databases & Data Engineering
@@ -26,6 +26,29 @@ From robust APIs to advanced **LLM & Agentic-AI** solutions — I enjoy transfor
 - 🐳 Docker, 🐙 Git/GitHub, 🐧 Linux  
 - 🔁 Celery, Redis ⚡, Task Queues  
 - 🔧 CI/CD, Deployment Pipelines, API Integrations  
+
+---
+## 🌟 Featured Project: VayuAPI
+
+**VayuAPI** is an async Python API framework I built — designed for rapid development with ultra-low latency, native AI/LLM tooling, and production-ready features built in from day one.
+
+- ⚡ Async-first architecture, built on **Starlette** & **Pydantic**
+- 🧠 Native **LangChain**, **RAG pipeline**, and **vector database** support (Pinecone, ChromaDB, Weaviate)
+- 🗄️ Async **Django ORM**, Tortoise ORM, MongoDB & Redis integrations
+- 🔐 Built-in **JWT auth** & encryption
+- 🛠️ Auto-generated **admin panel**
+- 📄 Auto-generated **OpenAPI docs** (Swagger + ReDoc)
+- 🧩 Microservices-ready with service discovery
+
+Currently in **early beta** — built for developers who don't want to wire up FastAPI + LangChain + an ORM + auth + an admin panel manually for every AI-powered backend.
+
+```bash
+pip install vayuapi
+```
+
+📦 PyPI: [pypi.org/project/vayuapi](https://pypi.org/project/vayuapi/)
+
+---
 
 ---
 
